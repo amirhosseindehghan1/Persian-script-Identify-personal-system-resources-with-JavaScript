@@ -1,1 +1,0 @@
-[wp_pl_link link="https://dl.architectsalam.ir/bazi.zip" title="download" expire="10" generate="1"]
