@@ -1,0 +1,51 @@
+@font-face {
+    font-family: Vazir;
+    src: url('/Vazir.77750b51.eot');
+    src: url('/Vazir.77750b51.eot?#iefix') format('embedded-opentype'),
+         url('/Vazir.18ffc29c.woff2') format('woff2'),
+         url('/Vazir.6c23cfba.woff') format('woff'),
+         url('/Vazir.15f55cd2.ttf') format('truetype');
+    font-weight: normal;
+  }
+  
+  @font-face {
+    font-family: Vazir;
+    src: url('/Vazir-Bold.d45fbdfa.eot');
+    src: url('/Vazir-Bold.d45fbdfa.eot?#iefix') format('embedded-opentype'),
+         url('/Vazir-Bold.6130642b.woff2') format('woff2'),
+         url('/Vazir-Bold.e58445ea.woff') format('woff'),
+         url('/Vazir-Bold.5f8b2f43.ttf') format('truetype');
+    font-weight: bold;
+  }
+  
+  @font-face {
+    font-family: Vazir;
+    src: url('/Vazir-Light.77676968.eot');
+    src: url('/Vazir-Light.77676968.eot?#iefix') format('embedded-opentype'),
+         url('/Vazir-Light.71e44b70.woff2') format('woff2'),
+         url('/Vazir-Light.7c13551e.woff') format('woff'),
+         url('/Vazir-Light.2303d7b8.ttf') format('truetype');
+    font-weight: 300;
+  }
+  
+  @font-face {
+    font-family: Vazir;
+    src: url('/Vazir-Medium.24a17d30.eot');
+    src: url('/Vazir-Medium.24a17d30.eot?#iefix') format('embedded-opentype'),
+         url('/Vazir-Medium.e90eec25.woff2') format('woff2'),
+         url('/Vazir-Medium.3acb8daf.woff') format('woff'),
+         url('/Vazir-Medium.7c90e4be.ttf') format('truetype');
+    font-weight: 500;
+  }
+  
+  @font-face {
+    font-family: Vazir;
+    src: url('/Vazir-Thin.28f66022.eot');
+    src: url('/Vazir-Thin.28f66022.eot?#iefix') format('embedded-opentype'),
+         url('/Vazir-Thin.f4e96c62.woff2') format('woff2'),
+         url('/Vazir-Thin.b337df76.woff') format('woff'),
+         url('/Vazir-Thin.b62699ca.ttf') format('truetype');
+    font-weight: 100;
+  }
+
+/*# sourceMappingURL=/vazir.cb4cb14b.css.map */
